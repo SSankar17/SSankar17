@@ -1,6 +1,3 @@
-# sanjanasankar
-readme
-
 ### Hello! I'm Sanjana Sankar!
 
 ### About Me
