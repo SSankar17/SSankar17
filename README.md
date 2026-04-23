@@ -19,7 +19,7 @@ I am currently pursuing a Master of Science in Applied Analytics at Columbia Uni
 2. [Air Quality App](https://github.com/SSankar17/airqualityapp) is my final project I completed alongside 2 teammates for my INST377 Web programming course.
 3. [Movie Recommender Tool](https://github.com/SSankar17/movierecommendationtool) is a personal project I made recently! It utilizes a ML model to give you movie suggestions using Python.
 4. [Self Playing Game of Life](https://github.com/SSankar17/FinalProject_INST326) was my final project for my Advanced Python class at UMD. I created this alongside 2 other teammates.
-5. [NYT Dashboard](https://github.com/SSankar17/nyt_dashboard) is a project I am currently working on for class with 5 other members. We are hoping to create a dashboard using the NYT Bestsellers Books API to help marketing executives understand how books can be better marketed towards people.
+5. [NYT Dashboard](https://github.com/SSankar17/nyt_dashboard) is a project from my Data Engineering class that I worked on with 5 other members. We created a dashboard using the NYT Bestsellers Books API to help marketing executives understand how books can be better marketed towards people.
 
 ---
 
