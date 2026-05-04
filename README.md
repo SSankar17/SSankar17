@@ -20,7 +20,7 @@ I am currently pursuing a Master of Science in Applied Analytics at Columbia Uni
 3. [Movie Recommender Tool](https://github.com/SSankar17/movierecommendationtool) is a personal project I made recently! It utilizes a ML model to give you movie suggestions using Python.
 4. [Self Playing Game of Life](https://github.com/SSankar17/FinalProject_INST326) was my final project for my Advanced Python class at UMD. I created this alongside 2 other teammates.
 5. [NYT Dashboard](https://github.com/SSankar17/nyt_dashboard) is a project from my Data Engineering class that I worked on with 5 other members. We created a dashboard using the NYT Bestsellers Books API to help marketing executives understand how books can be better marketed towards people.
-6. Recommender System Analysis is a project from my Applied Machine Learning class that I worked on with 2 other members. We wanted to understand how NLP could improve a recommender system significantly which is what we explored in this project by comparing two content-based models - one genre-based and the other a mix of genre-based and NLP techniques.
+6. [Recommender System Analysis](https://github.com/SSankar17/AML2_Recommender_Systems) is a project from my Applied Machine Learning class that I worked on with 2 other members. We wanted to understand how NLP could improve a recommender system significantly which is what we explored in this project by comparing two content-based models - one genre-based and the other a mix of genre-based and NLP techniques.
 
 ---
 
